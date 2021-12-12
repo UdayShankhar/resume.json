@@ -1,0 +1,56 @@
+{
+    "Basics":{
+        "name":"UdayShankhar",
+        "label":"Programmer",
+        "email":"shankhar87@gmail.com",
+        "phone.no":"7299558340",
+        "summary":"To secure a challenging position in an organization to expand my learning knowledge and skills also seeking for an   opportunity to fully utilize my training and skills while making a significant contribution to the success of the company.",
+        "location":{
+            "address":"No.2,9th Main Road,Sasirekhamma Nagar,Kannadasan Nagar,Chennai-600118",
+            "city":"Chennai",
+        },
+        "work":[{
+         "name":"Napa's Handlooms",
+         "position":"Business Development Associate",
+         "start-date":"06-07-2018",
+         "end-date":"20-03-2020",
+         "summary":"Making cold calls to generateleads.
+        	Generating product leads from OpenMarket.
+         	Handling product queries and solving clientissues.
+         	Monitor and review businessperformance."
+        }],
+        "work":[{
+            "name":"Candid Machines",
+            "position":"Trainee Engineer",
+            "start-date":"15-09-2020",
+            "end-date":"31-08-2021",
+            "summary":"Programmable Logic Control Programmer.
+            Supervisory and Data AcquisitionEngineer.
+            Human Machine InterfaceDesigner.
+            CADDDesigner."
+            
+        }],
+        "education":[{
+            "institution":"Jeppiaar Engineering College",
+            "url":"https://jeppiaarcollege.org/jeppiaar/",
+            "area":"Electronics and Instrumentaion",
+            "studyType":"Bachelor's",
+            "start-date":"02-07-2014",
+            "end-date":"20-08-2018",
+            "score":"6.2"
+        }],
+        "skills":[{
+            "name":"Web development",
+            "level":"Beginner",
+            "keywords":[
+                "HTML","CSS","Javascript"
+            ]
+            }],
+            "interests":[{
+                "name":"Playing mobile games",
+                "Keywords":[
+                    "PUBG","Call Of Duty"
+                ]
+            }]
+    }
+};
